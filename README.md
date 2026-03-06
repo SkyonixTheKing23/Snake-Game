@@ -3,7 +3,7 @@
 A cyber-styled Snake game built using **HTML5 Canvas, CSS and JavaScript**.
 
 ## 🎮 Play the Game
-https://skyonixtheking23.github.io/snake-game/
+https://SkyonixTheKing23.github.io/snake-game/
 
 ## Features
 - Neon cyber UI
